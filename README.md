@@ -16,8 +16,8 @@ Ce fichier charge les éléments suivants:
 - js/clocks.js = un endroit où mettre votre code JavaScript.
 
 ## Fonctionnement
-chaque batton represent une minute et chaque batton apparait progressivement seconde par seconde.
-((à définir))
+
+Chaque bâton représente une minute, et chaque bâton apparait progressivement seconde par seconde.
 
 Automne 2017  
 Eracom, Lausanne
